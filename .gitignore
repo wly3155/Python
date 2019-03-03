@@ -1,1 +1,5 @@
 .ssh
+/out/
+*.o
+id_rsa
+id_rsa.pub
