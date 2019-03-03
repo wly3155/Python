@@ -3,6 +3,7 @@
 using namespace std;
 void debug()
 {
+	cout<<"test"<<endl;
 }
 int main()
 {
